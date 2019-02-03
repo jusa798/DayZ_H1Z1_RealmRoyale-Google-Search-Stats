@@ -16,4 +16,12 @@
 
 ![](Images/videogame_google_stats_figure2.png)
   
-  My hypothesis of any negative correlation seems to be pretty wrong with this graph. The correlation matrix also shows a negligible negative -.17 correlation between Realm Royale and DayZ, an even more negligible -.05 correlation between DayZ and H1Z1, and then a weak positive relationship between Realm Royale and H1Z1. As more time passes, and these games go through more and more changes, it will be interesting to see the search statistics in the future. 
+  My hypothesis of any negative correlation seems to be pretty wrong with this graph. The correlation matrix also shows: 
+ 
+A negligible negative -.17 correlation between Realm Royale and DayZ.
+  
+An even more negligible -.05 correlation between DayZ and H1Z1.
+ 
+And then a .3 weak positive relationship between Realm Royale and H1Z1. 
+ 
+As more time passes, and these games go through more and more changes, it will be interesting to see the search statistics in the future. 
