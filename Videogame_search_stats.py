@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # # # Reading in the data and some cleanup # # #
 
-hirez_stats = pd.read_csv("C:/Users/XPS15-9550/Documents/statsforHiRez.csv")
+hirez_stats = pd.read_csv("C:/Users/XPS15-9550/Documents/Videogame_Searchstats.csv")
 
 hirez_stats.columns = ['Week', 'DayZ', 'Realm_Royale', 'H1Z1']
 
